@@ -11,4 +11,4 @@ The application is designed to be a time-saving tool for individuals or organiza
 
 2) The generated ID numbers will be displayed in the text box below.
 
-<img src="https://raw.githubusercontent.com/liad07/Addon-generator/main/logo.ico" width=100 height=100></img>
+<img src="https://raw.githubusercontent.com/liad07/Addon-generator/main/logo.ico](https://github.com/liad07/id-generator/blob/main/bin/id%20generator.png" width=100 height=100></img>
