@@ -6,3 +6,8 @@ The application has a user-friendly interface that allows the user to select the
 The application is designed to be a time-saving tool for individuals or organizations that need to generate a large number of valid Israeli ID numbers. It eliminates the need for manual generation and reduces the risk of errors.
 
 **It's important to note that as a developer, I am not responsible for what the user will do with the application. It's the user's responsibility to ensure that the generated ID numbers are used in compliance with all relevant laws and regulations.**
+## how generate 
+Please enter the number of ID numbers you would like to generate.
+The generated ID numbers will be displayed in the text box below.
+
+<img src="https://raw.githubusercontent.com/liad07/Addon-generator/main/logo.ico" width=100 height=100></img>
