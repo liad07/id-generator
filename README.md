@@ -1,4 +1,4 @@
-# id-generator
+# id generator
 The ID generator application is a software tool designed for generating valid Israeli ID numbers. The application uses a specific algorithm and rules that are in compliance with Israeli regulations for ID numbers validation.
 
 The application has a user-friendly interface that allows the user to select the number of ID numbers they want to generate. The user can choose to generate as many ID numbers as they desire and the application will provide them with unique, valid Israeli ID numbers.
