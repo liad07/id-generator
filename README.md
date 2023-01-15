@@ -7,7 +7,8 @@ The application is designed to be a time-saving tool for individuals or organiza
 
 **It's important to note that as a developer, I am not responsible for what the user will do with the application. It's the user's responsibility to ensure that the generated ID numbers are used in compliance with all relevant laws and regulations.**
 ## how generate 
-Please enter the number of ID numbers you would like to generate.
-The generated ID numbers will be displayed in the text box below.
+1.)Please enter the number of ID numbers you would like to generate.
+
+2.)The generated ID numbers will be displayed in the text box below.
 
 <img src="https://raw.githubusercontent.com/liad07/Addon-generator/main/logo.ico" width=100 height=100></img>
