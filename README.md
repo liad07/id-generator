@@ -10,5 +10,6 @@ The application is designed to be a time-saving tool for individuals or organiza
 1) Please enter the number of ID numbers you would like to generate.
 
 2) The generated ID numbers will be displayed in the text box below.
-
+ 
+ **The future behind us**
 <img src="https://github.com/liad07/id-generator/blob/main/bin/id%20generator.png" width=100 height=100></img>
